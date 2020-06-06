@@ -8,3 +8,5 @@ In this stage we are going to deploy a cat-dog classifier on webapp and android 
 
 The user will be able to upload or click a photo through the app and then be able to predict the image  
 as cat or dog
+
+## Falana dimkana update
